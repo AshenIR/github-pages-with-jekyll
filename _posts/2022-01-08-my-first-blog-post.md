@@ -1,3 +1,9 @@
+---
+title: "Sri Lankan Food"
+date: 2022-01-08
+---
+
+
 12 foods you should try in Sri Lanka -- from sour fish curry to coconut relish
 Fish ambul thiyal (sour fish curry) ...
 Kottu (also, kottu roti) ...
